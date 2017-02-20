@@ -1,2 +1,2 @@
 # StayUp
-A safety Android application that allows users to contact 3 emergency contacts when they fall
+A safety Android application that allows users to contact 3 emergency contacts when they fall. This application was designed for the elderly and other people who may live alone and cannot take care of themselves. A user is able to add 3 emergency contacts from their phone contacts and when the phone detects a fall, a text message will be sent to all contacts. The message will include a Google Maps link to their current location so that they will be able to send help immediately. Additionally, a false alarm feature was put in place so that a user is able to cancel the operation if they accidentally dropped their phone.
