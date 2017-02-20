@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-51e15dfeb24aff8118c017970ae0ba3cd7153eb4.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-f0c58f6a5e5fc279b5eade2671794bda75820519.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-3ec3c6b208e3d6adf3f8218be5aa42e78e8d0b77.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-59093a39f362b78ca1022eae8a4e98a41d129bf0.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-ee407a2a9207c45e7aef4ecf047b82e30490a4f1.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-cfb09c98dff1966659dfef8b1fff66877bbaa516.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-0a3052a3931b0a2d745df9eb0f45ad64af45c955.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-993382af92338abb95881d051872ddbe095d7081.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-1ec82b5340164c8db206fd7f4f3c16be99760ec1.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-f59598a3223c5e9f33af27555746d7225f9c227d.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-c4e87b7aa4755c64577997cb320b7dca314ddc30.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-c7a05bc8a7f46302f3a4eca7c0d5bd00c6680f15.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-7c840de8c5bf8c8c07e9d10b02febcdc0cefa9c4.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-a7bb3641a5b97f1dc8212d4723e4a3c6cef20794.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-2b3ecb62d446dadec039f76c8ac2716c6f6211a9.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6cd0b7887ee90a6ffc0c2b292ddc43bce6c7819b.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-b61d8ba2b9e22ca56515440d5bf5eb9a24f2577f.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-0c27247ee59293b922887c06e8fb9617cacc3a5e.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-1de0a5a568b2d9197e2fb4228492fd7d60081f15.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-b011e9fcbe3ea4160aba6fbcd76ec6e965006e0b.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-47ed6613b70e85b8be2579078b8fe86fa25d051b.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-54365a2cad3a19cb93d9bde21c8e4b55f3a989fc.jar" />
+    </item>
+    <item
+        jar="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/other/AndroidStudioProjects/StayUp/app/build/intermediates/pre-dexed/debug/classes-7e40a9621d95e1f72f19327c9e01cf283de4f862.jar" />
+    </item>
+
+</items>
